@@ -137,5 +137,5 @@ STATIC_URL = '/static/'
 
 # we whitelist localhost:3000 because that's where frontend will be served
 CORS_ORIGIN_WHITELIST = (
-    'http://localhost:3000',  # React Local Host
+    'https://illustrious-tanuki-5c7ded.netlify.app',  # React Local Host
 )
